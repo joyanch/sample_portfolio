@@ -1,2 +1,1 @@
-# sample_portfolio
-sample leasring
+all photos
